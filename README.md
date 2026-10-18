@@ -18,11 +18,13 @@ Movavi Video Suite · MoggyDay · 27.0 · v27.0.0
 
 MoggyDay keeps one stable URL for Movavi Video Suite: EN / RU. Movavi Video Suite on Windows 10/11 x64. 377 MB. Requirements, screenshots, MoggyDay Launcher.
 
+**Get it on the site:** [EN](https://moggydayprogram.com/en/programs/movavi-video-suite) · [RU](https://moggydayprogram.com/programs/movavi-video-suite)
+
 ## Download
 
 1. Open [Movavi Video Suite EN](https://moggydayprogram.com/en/programs/movavi-video-suite) or [Movavi Video Suite RU](https://moggydayprogram.com/programs/movavi-video-suite).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Use the download button on the live card. This GitHub page does not host the installer.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
